@@ -14,7 +14,7 @@ Driver for LED
 1. Open Keil and create new project
    * Choose Philips P89V51RD2 database
 1. Add led.c file to Source Group
-1. Edit led.c's main function: P0 = 0xnn
+   * Edit led.c's main function: P0 = 0xNN
 1. Build target
 1. Use Flash Magic to write the resulting hex file to the 8051 microcontroller
 
