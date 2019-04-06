@@ -12,7 +12,7 @@ Program to turn on certain LEDs in a row of 8 LEDs
 ### Installing
 1. Connect LEDs to Port 0 of the 8051 microcontroller
 1. Open Keil and create new project
-   * Choose Philips 8xC51RD+ database
+   * Choose Philips P89V51RD2 database
 1. Add led.c file to Source Group
 1. Build target
 1. Use Flash Magic to write the resulting hex file to the 8051 microcontroller
