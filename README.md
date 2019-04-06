@@ -20,7 +20,8 @@ Driver for LED
 
 ### Example
 
-We can turn the 3rd, 6th, and 7th LEDs on by programming Port 0 to 0x26, which is 00100110 in binary.
+We can turn the 3rd, 6th, and 7th LEDs on by programming Port 0 to 0x26, which is 00100110 in binary. We write P0 = 0x26 in
+  led.c's main function, build the target, and use Flash Magic to write the hex file to the microcontroller.
 
 <img src="led_pic.jpg" width="400">
 
