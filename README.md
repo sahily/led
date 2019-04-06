@@ -1,5 +1,5 @@
 # led
-Program to turn on certain LEDs in a row of 8 LEDs
+Driver for LED
 
 ## Getting Started
 
